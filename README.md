@@ -1,6 +1,6 @@
 # 👋 はじめまして！
 
-Python・VBA・GASを使った**業務自動化**が得意なフリーランスエンジニアです。
+Python・VBA・GAS・Claudeを使った**業務自動化**が得意なフリーランスエンジニアです。
 中小企業の「面倒な繰り返し作業」をコードで解決するお手伝いをしています。
 
 ---
@@ -9,8 +9,8 @@ Python・VBA・GASを使った**業務自動化**が得意なフリーランス�
 
 | スキル | 得意なこと |
 |---|---|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | データ集計・自動化・スクレイピング・PDF/Excel操作 |
-| ![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoft-excel&logoColor=white) | Excel/Accessの業務自動化・マクロ開発・帳票作成 |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | 業務アプリ開発・AI開発・API連携システム開発 |
+| ![VBA](https://img.shields.io/badge/VBA-217346?style=flat&logo=microsoft-excel&logoColor=white) | Excel業務の自動化・マクロ開発・帳票作成 |
 | ![GAS](https://img.shields.io/badge/GAS-4285F4?style=flat&logo=google&logoColor=white) | スプレッドシート・Gmail・カレンダーの自動化 |
 
 ---
@@ -42,7 +42,7 @@ Python・VBA・GASを使った**業務自動化**が得意なフリーランス�
 
 - ✔️ Excelマクロ・VBAの開発・修正
 - ✔️ Googleスプレッドシート・GASの自動化
-- ✔️ Pythonによるデータ集計・加工・レポート作成
+- ✔️ Pythonによる業務アプリ開発・AI開発・API連携システム開発
 - ✔️ 定型業務の自動化（メール・PDF・ファイル操作）
 - ✔️ スクレイピングによるデータ収集
 - ✔️ 既存ツールの改修・機能追加
@@ -51,9 +51,9 @@ Python・VBA・GASを使った**業務自動化**が得意なフリーランス�
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=（ユーザー名）&show_icons=true&theme=default&locale=ja)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=philiachannel&show_icons=true&theme=default&locale=ja)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=（ユーザー名）&layout=compact&locale=ja)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=philiachannel&layout=compact&locale=ja)
 
 ---
 
@@ -63,7 +63,7 @@ Python・VBA・GASを使った**業務自動化**が得意なフリーランス�
 |---|---|
 | 📝 Zenn | https://zenn.dev/（ユーザー名） |
 | 📝 Qiita | https://qiita.com/（ユーザー名） |
-| 🐦 X (Twitter) | https://x.com/（ユーザー名） |
+| 🐦 X (Twitter) | https://x.com/Philia_ch |
 
 ---
 
@@ -73,9 +73,9 @@ Python・VBA・GASを使った**業務自動化**が得意なフリーランス�
 
 | 連絡方法 | リンク |
 |---|---|
-| ✉️ メール | your-email@example.com |
-| 💼 クラウドワークス | https://crowdworks.jp/public/employees/（ID） |
-| 💼 ランサーズ | https://www.lancers.jp/profile/（ユーザー名） |
+| ✉️ メール | philiachannel@gmail.com |
+| 💼 クラウドワークス | https://crowdworks.jp/public/employees/5151248 |
+| 💼 ココナラ | https://coconala.com/users/3578031 |
 
 ---
 
